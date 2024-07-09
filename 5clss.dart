@@ -1,7 +1,6 @@
 void main() {
-  var i = 0;
-  while (i < 50) {
-    print(i);
-    i++;
+  var message = StringBuffer('Dart is fun');
+  for (var i = 0; i < 5; i++) {
+    print("sanjd");
   }
 }
